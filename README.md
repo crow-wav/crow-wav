@@ -1,6 +1,6 @@
 ## Welcome to my journey 🐦‍⬛
 
-I'm Keston, a QA specialist with a passion for problem-solving and bringing new ideas to life.
+I'm Keston, a QA specialist who loves problem-solving and bringing new ideas to life.
 
 I've spent time testing AAA games and working with AI data, and have recenly been exploring everything that goes on behind the scenes.
 
