@@ -1,4 +1,4 @@
-## Hey there 🐦‍⬛
+## Welcome to my journey 🐦‍⬛
 
 I'm Keston, a QA specialist with a passion for problem-solving and bringing new ideas to life.
 
